@@ -1,0 +1,3 @@
+/cygdrive/c/Users/muham/CLionProjects/HuffmanProject/cmake-build-debug/CMakeFiles/HuffmanProject.dir
+/cygdrive/c/Users/muham/CLionProjects/HuffmanProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/muham/CLionProjects/HuffmanProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
